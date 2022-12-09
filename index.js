@@ -1,7 +1,7 @@
 const { static } = require('express')
 const express = require('express')
 const app = express()
-const PORT = 8888
+const PORT = 3000
 
 const path = require('path')
 
