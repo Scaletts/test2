@@ -33,7 +33,7 @@ db.connect()
 
 // route init
 route(app)
-
+	
 app.listen(PORT, () =>
 	console.log(`Server listening at http://localhost:${PORT}`)
 )
